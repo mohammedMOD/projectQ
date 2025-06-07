@@ -1,1 +1,1 @@
-# projectQ V1
+# projectQ
